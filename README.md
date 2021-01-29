@@ -51,7 +51,7 @@ zoom.
 
 [email](http://www.email.com/)
 
-![sun pik] (https://github.com/alek988/gitforakki/blob/main/sun.jfif)  
+![sun pik](https://github.com/alek988/gitforakki/blob/main/download.jfif)  
 
 
 
